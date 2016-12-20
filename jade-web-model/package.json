@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "normalize.css": "^5.0.0"
+  }
+}
