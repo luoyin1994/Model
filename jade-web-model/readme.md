@@ -1,6 +1,31 @@
 #model说明
 ###适用于web前端开发（静态页面部分），html，css，js三者分离。细分开发。
 ####model目录（暂定）
+- src/    
+  - fonts/
+  - imgs/
+- script/ 
+  - js/
+  - script.jade   
+- style/  
+  - css/          
+    - componets/      
+    - public/         
+    - header.css           
+    - container.css   
+    - footer.css      
+  - layout/       
+  - style.jade    
+- views/ 
+  - layout/       
+    - head.jade      
+    - body.jade       
+    - layout.jade     
+  -header.jade    
+  -container.jade 
+  -footer.jade    
+- app.jade 
+####目录解释
 - src/    *引用文件*
   - fonts/
   - imgs/
