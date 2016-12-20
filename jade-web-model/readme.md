@@ -21,11 +21,13 @@
     - head.jade      
     - body.jade       
     - layout.jade     
-  -header.jade    
-  -container.jade 
-  -footer.jade    
+  - header.jade    
+  - container.jade 
+  - footer.jade    
 - app.jade 
+
 ####目录解释
+
 - src/    *引用文件*
   - fonts/
   - imgs/
@@ -46,7 +48,7 @@
     - head.jade       *视图布局head部分*||*可能有修改*
     - body.jade       *视图布局body部分*
     - layout.jade     *视图布局主文件*
-  -header.jade    *头部区域html文件*
-  -container.jade *内容区域html文件*
-  -footer.jade    *底部区域html文件*
+  - header.jade    *头部区域html文件*
+  - container.jade *内容区域html文件*
+  - footer.jade    *底部区域html文件*
 - app.jade *页面主文件*
